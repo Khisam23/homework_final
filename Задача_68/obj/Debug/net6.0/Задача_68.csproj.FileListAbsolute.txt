@@ -1,0 +1,15 @@
+C:\Users\kvant\GeekBrains\C#\homework_final\Задача_68\bin\Debug\net6.0\Задача_68.exe
+C:\Users\kvant\GeekBrains\C#\homework_final\Задача_68\bin\Debug\net6.0\Задача_68.deps.json
+C:\Users\kvant\GeekBrains\C#\homework_final\Задача_68\bin\Debug\net6.0\Задача_68.runtimeconfig.json
+C:\Users\kvant\GeekBrains\C#\homework_final\Задача_68\bin\Debug\net6.0\Задача_68.dll
+C:\Users\kvant\GeekBrains\C#\homework_final\Задача_68\bin\Debug\net6.0\Задача_68.pdb
+C:\Users\kvant\GeekBrains\C#\homework_final\Задача_68\obj\Debug\net6.0\Задача_68.csproj.AssemblyReference.cache
+C:\Users\kvant\GeekBrains\C#\homework_final\Задача_68\obj\Debug\net6.0\Задача_68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kvant\GeekBrains\C#\homework_final\Задача_68\obj\Debug\net6.0\Задача_68.AssemblyInfoInputs.cache
+C:\Users\kvant\GeekBrains\C#\homework_final\Задача_68\obj\Debug\net6.0\Задача_68.AssemblyInfo.cs
+C:\Users\kvant\GeekBrains\C#\homework_final\Задача_68\obj\Debug\net6.0\Задача_68.csproj.CoreCompileInputs.cache
+C:\Users\kvant\GeekBrains\C#\homework_final\Задача_68\obj\Debug\net6.0\Задача_68.dll
+C:\Users\kvant\GeekBrains\C#\homework_final\Задача_68\obj\Debug\net6.0\refint\Задача_68.dll
+C:\Users\kvant\GeekBrains\C#\homework_final\Задача_68\obj\Debug\net6.0\Задача_68.pdb
+C:\Users\kvant\GeekBrains\C#\homework_final\Задача_68\obj\Debug\net6.0\Задача_68.genruntimeconfig.cache
+C:\Users\kvant\GeekBrains\C#\homework_final\Задача_68\obj\Debug\net6.0\ref\Задача_68.dll
